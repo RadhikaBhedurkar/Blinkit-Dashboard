@@ -60,9 +60,6 @@ Used to interactively filter the entire dashboard.
 ┃ ┗ (image & mockups)
 ┣ README.md
 
-yaml
-Copy code
-
 ---
 
 ## 🛠 How to Use
